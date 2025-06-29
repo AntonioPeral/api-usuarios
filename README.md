@@ -24,7 +24,7 @@ Proyecto de ejemplo para operaciones CRUD sobre entidad `Usuario`, conectado a P
 
 1. Inicia la base de datos:
 
-```bash
+```terminal
 docker-compose up -d
 Corre la aplicación:
 mvn spring-boot:run
